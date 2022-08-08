@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @gracehill
+- 👀 I’m interested in using statistics to make meaningful insights...and pretty pictures 
+- 🌱 I’m currently learning how to use SQL, R, and Tableau to accomplish my goals 
