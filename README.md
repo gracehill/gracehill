@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @gracehill
-- 👀 I’m interested in using statistics to make meaningful insights in healthcare ... and pretty pictures :)
+- 👀 I’m interested in using statistics to draw meaningful insights in healthcare ... and making pretty pictures :)
 - 🌱 I’m currently learning how to use SQL, R, and Tableau to accomplish my goals 
